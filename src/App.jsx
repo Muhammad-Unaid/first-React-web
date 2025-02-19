@@ -4,7 +4,7 @@ import Header from './components/Header'
 import Hero from './components/Hero'
 import Features from './components/Features'
 import Features2 from './components/Features2'
-import Testimonials from './components/testimonials'
+import Testimonials from "./components/Testimonials"
 function App() {
  console.log('landingPageData=>', landingPageData)
  const { header ,hero ,features , features2 , testimonials } = landingPageData;
